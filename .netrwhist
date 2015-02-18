@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =3
 let g:netrw_dirhist_1='/Users/alexcannon/acannon828.github.io/_posts'
 let g:netrw_dirhist_2='/Users/alexcannon/iOS-Indoor-SDK/EstimoteSDK'
+let g:netrw_dirhist_3='/Users/alexcannon/pgl/oalTouch/.git'
