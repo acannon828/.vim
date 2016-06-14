@@ -34,3 +34,6 @@
 [submodule "bundle/vim-misc"]
 	path = bundle/vim-misc
 	url = git@github.com:xolox/vim-misc.git
+[submodule "bundle/vim-gitgutter"]
+	path = bundle/vim-gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
