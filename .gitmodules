@@ -55,3 +55,6 @@
 [submodule "bundle/vim-dispatch"]
 	path = bundle/vim-dispatch
 	url = https://github.com/tpope/vim-dispatch
+[submodule "bundle/pytest-vim-compiler"]
+	path = bundle/pytest-vim-compiler
+	url = https://github.com/5long/pytest-vim-compiler.git
