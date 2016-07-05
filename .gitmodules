@@ -49,3 +49,6 @@
 [submodule "bundle/vim-gh-line"]
 	path = bundle/vim-gh-line
 	url = https://github.com/ruanyl/vim-gh-line.git
+[submodule "bundle/vimux"]
+	path = bundle/vimux
+	url = https://github.com/benmills/vimux.git
