@@ -64,3 +64,6 @@
 [submodule "bundle/vim-unimpaired"]
 	path = bundle/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/ListToggle"]
+	path = bundle/ListToggle
+	url = https://github.com/Valloric/ListToggle.git
